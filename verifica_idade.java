@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class verifica_idade_2 {
+public class verifica_idade{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         while (true) {
